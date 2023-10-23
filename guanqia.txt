@@ -1,0 +1,24 @@
+#1
+in 1 2 3
+mid 0
+out 1 2 3
+orders inbox outbox
+end
+#2
+in 3 9 5 1 -2 -2 9 -9 
+mid 3
+out -6 6 4 -4 0 0 18 -18
+orders inbox outbox copyfrom copyto add sub jump jumpifzero
+end
+#3
+in 6 2 7 7 -9 3 -3 -3
+mid 3
+out 7 -3
+orders inbox outbox copyfrom copyto add sub jump jumpifzero
+end
+#4
+in 1 2 2 4 
+mid 4
+out 1 2 4
+orders inbox outbox copyfrom copyto add sub jump jumpifzero
+end

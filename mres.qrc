@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ress/b0.jpg</file>
+        <file>ress/b1.jpg</file>
+        <file>ress/b2.jpg</file>
+        <file>ress/b3.jpg</file>
+        <file>ress/b4.jpg</file>
+        <file>ress/b5.jpg</file>
+        <file>ress/b6.jpg</file>
+        <file>ress/b7.jpg</file>
+        <file>ress/BackButtonSound.wav</file>
+        <file>ress/ConFlipSound.wav</file>
+        <file>ress/jiantou.jpg</file>
+        <file>ress/LevelWinSound.wav</file>
+        <file>ress/TapButtonSound.wav</file>
+        <file>ress/wukuai.jpg</file>
+        <file>ress/c0.jpg</file>
+        <file>ress/c1.jpg</file>
+        <file>ress/c2.png</file>
+        <file>ress/c3.png</file>
+        <file>ress/c4.png</file>
+        <file>ress/c5.png</file>
+        <file>ress/c6.png</file>
+        <file>ress/c7.png</file>
+        <file>ress/c1.png</file>
+        <file>ress/c0.png</file>
+        <file>ress/getrobot.jpg</file>
+        <file>ress/grtrobotwithback.jpg</file>
+        <file>ress/kongrobot.jpg</file>
+        <file>ress/kongrobotwithout.jpg</file>
+        <file>ress/BackButton.png</file>
+        <file>ress/BackButtonSelected.png</file>
+        <file>ress/k6j206ee3u385r81bpegckmaqtfwabu.png</file>
+        <file>ress/OtherSceneBg.png</file>
+        <file>ress/playscence.jpg</file>
+        <file>ress/startbejing.png</file>
+        <file>ress/LevelIcon.png</file>
+    </qresource>
+</RCC>

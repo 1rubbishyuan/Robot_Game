@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ress/BackButtonSound.wav</file>
+        <file>ress/ConFlipSound.wav</file>
+        <file>ress/getrobot.jpg</file>
+        <file>ress/grtrobotwithback.jpg</file>
+        <file>ress/jiantou.jpg</file>
+        <file>ress/kongrobot.jpg</file>
+        <file>ress/kongrobotwithout.jpg</file>
+        <file>ress/LevelWinSound.wav</file>
+        <file>ress/TapButtonSound.wav</file>
+        <file>ress/wukuai.jpg</file>
+        <file>ress/c0.jpg</file>
+        <file>ress/c1.jpg</file>
+        <file>ress/c2.png</file>
+        <file>ress/c3.png</file>
+        <file>ress/c4.png</file>
+        <file>ress/c5.png</file>
+        <file>ress/c6.png</file>
+        <file>ress/c7.png</file>
+    </qresource>
+</RCC>
